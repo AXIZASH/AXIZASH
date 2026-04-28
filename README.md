@@ -18,21 +18,35 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="42" height="42" alt="Linux"/>
 </a>
 
-<a href="https://www.ibm.com/docs/en/app-connect/" target="_blank">
-<img src="https://cdn.simpleicons.org/ibm/052FAD" width="42" height="42" alt="Boomi / Integration"/>
-</a>
+<h2>💼 Technical Skills</h2>
 
-<a href="https://www.atlassian.com/software/confluence" target="_blank">
-<img src="https://cdn.simpleicons.org/confluence/172B4D" width="42" height="42" alt="Confluence"/>
-</a>
+- SQL | Oracle | MySQL  
+- UNIX/Linux Administration  
+- Python Scripting  
+- Boomi Integration Support  
+- Cherwell (ITSM)  
+- Incident & Problem Management  
+- SLA Monitoring & Root Cause Analysis  
+- System Monitoring & Production Support  
+- ITIL Framework  
+- Confluence Documentation  
+- Troubleshooting & User Support  
+- Vendor Coordination & Cross-Team Collaboration
 
-<a href="https://www.atlassian.com/software/jira" target="_blank">
-<img src="https://cdn.simpleicons.org/jira/0052CC" width="42" height="42" alt="Incident Management"/>
-</a>
+<h2>🛠 Support Expertise</h2>
 
-<a href="https://www.redhat.com/" target="_blank">
-<img src="https://cdn.simpleicons.org/redhat/EE0000" width="42" height="42" alt="UNIX"/>
-</a>
+✔ Application Support  
+✔ Incident Management  
+✔ Troubleshooting Production Issues  
+✔ Job Monitoring  
+✔ Root Cause Analysis  
+✔ Knowledge Base Documentation  
+✔ User Access Management  
+✔ Process Improvement  
+✔ User Training
+
 </p>
 <h2>⚡️ Where to find me</h2>
-<p><a target="_blank" href="https://www.linkedin.com/in/https://www.linkedin.com/in/axizash/" style="display: inline-block;"><img src="https://img.shields.io/badge/linkedin-logo?style=for-the-badge&logo=linkedin&logoColor=white&color=%230a77b6" alt="linkedin" /></a></p>
+<p><a href="https://www.linkedin.com/in/axizash/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a></p>
