@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Avinash</h1>
-<h3 align="center">Application Support Engineer | Linux • SQL • Python • Automation Support</h3>
+<h3 align="center">Application Support Engineer | Linux • SQL • Python </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/axizash/">
