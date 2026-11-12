@@ -40,13 +40,6 @@ Malla Reddy Engineering College · 06/2017 – 06/2021
 
 ---
 
-## 📊 GitHub Stats
-
-![Avinash's GitHub stats](https://github-readme-stats.vercel.app/api?username=axizash&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=axizash&layout=compact&theme=radical&hide_border=true)
-
----
-
 ## 🤝 Let's Connect
 
 - 📧 pavinashreddy24@gmail.com
